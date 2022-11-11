@@ -68,7 +68,7 @@
     "download": "^7.1.0",
     "glob": "^7.1.4",
     "istanbul": "^0.4.5",
-    "mocha": "^6.2.3",
+    "mocha": "^10.1.0",
     "mocha-jenkins-reporter": "^0.4.5",
     "remap-istanbul": "^0.13.0",
     "request": "^2.88.2",
